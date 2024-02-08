@@ -9,12 +9,12 @@ The goal of this project is to perform data analytics on cab data using various 
 ![image](https://github.com/buddhavyas/Cab_etl_pipeline_dataengineering_project/assets/83970437/d69b20dc-6a0e-4e55-ac90-c18ff9a9c089)
 
 
-<h1>Technology Used</h1>:
+<h1>Technology Used :</h1>
 
 Programming Language - Python
 
-Google Cloud Platform
-Google Storage
-Compute Instance
-BigQuery
-Looker Studio
+Google Cloud Platform \n
+Google Storage \n
+Compute Instance \n
+BigQuery \n
+Looker Studio \n
