@@ -21,11 +21,11 @@ Programming Language - Python
 Modern Data Pipeine Tool - https://www.mage.ai/
 
 <h1>Dataset Used</h1>
-TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
+TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.<br>
 
-Here is the dataset used - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
+Here is the dataset used - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv<br>
 
 More info about dataset can be found here:
 
-Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page <br>
 Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
