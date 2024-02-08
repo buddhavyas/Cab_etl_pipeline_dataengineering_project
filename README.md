@@ -13,8 +13,19 @@ The goal of this project is to perform data analytics on cab data using various 
 
 Programming Language - Python
 
-Google Cloud Platform <br>
-Google Storage <br>
-Compute Instance <br>
-BigQuery <br>
-Looker Studio <br>
+1.Google Cloud Platform <br>
+2.Google Storage <br>
+3.Compute Instance <br>
+4.BigQuery <br>
+5.Looker Studio <br> <br>
+Modern Data Pipeine Tool - https://www.mage.ai/
+
+<h1>Dataset Used</h1>
+TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
+
+Here is the dataset used - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
+
+More info about dataset can be found here:
+
+Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
